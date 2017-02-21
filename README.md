@@ -11,5 +11,6 @@ Pre-requisite:
 How to run:
 
 1. Download indexed exemplar and other related files from https://www.dropbox.com/s/goz3of3dnwxm9ke/exemplar_data.zip?dl=0
-1. Run compile.m
-2. Run detect_afw.m for testing on AFW dataset.
+   and copy all the files to data/ folder
+2. Run compile.m
+3. Run detect_afw.m for testing on AFW dataset.
